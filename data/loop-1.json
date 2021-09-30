@@ -1,0 +1,9 @@
+{
+  "contest": "Swivel contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "G",
+  "title": "Bytes constant more efficient than string literal",
+  "issueId": 1,
+  "issueUrl": "https://github.com/code-423n4/2021-09-swivel-findings/issues/1"
+}
