@@ -1,0 +1,9 @@
+{
+  "contest": "Swivel contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "1",
+  "title": "swivel and marketPlace contract does not implement the mechanisim to renounce the role of admin",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2021-09-swivel-findings/issues/119"
+}
