@@ -1,0 +1,9 @@
+{
+  "contest": "Swivel contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "fee possibly send in the wrong way in exitVaultFillingVaultInitiate ",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2021-09-swivel-findings/issues/63"
+}
