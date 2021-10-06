@@ -1,0 +1,9 @@
+{
+  "contest": "Swivel contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Static chainID could allow replay attacks on chain splits",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2021-09-swivel-findings/issues/98"
+}
