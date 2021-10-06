@@ -1,0 +1,9 @@
+{
+  "contest": "Swivel contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "return value of 0 from ecrecover not checked",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2021-09-swivel-findings/issues/61"
+}
