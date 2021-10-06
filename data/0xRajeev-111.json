@@ -1,0 +1,9 @@
+{
+  "contest": "Swivel contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Removing redundant require() can save gas",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2021-09-swivel-findings/issues/111"
+}
