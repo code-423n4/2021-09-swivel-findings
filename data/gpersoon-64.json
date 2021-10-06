@@ -1,0 +1,9 @@
+{
+  "contest": "Swivel contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "Prevent creating the same market twice",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2021-09-swivel-findings/issues/64"
+}
