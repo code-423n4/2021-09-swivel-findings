@@ -1,0 +1,9 @@
+{
+  "contest": "Swivel contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "Prevent underflow in require",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2021-09-swivel-findings/issues/62"
+}
