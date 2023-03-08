@@ -1,3 +1,11 @@
+---
+sponsor: "Swivel" 
+slug: "2021-09-swivel" 
+date: "2021-11-05"  
+title: "Swivel contest" 
+findings: "https://github.com/code-423n4/2021-09-swivel-findings" 
+contest: 39 
+---
 
 # Overview
 
